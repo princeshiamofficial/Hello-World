@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-4">
-      <Card className="w-full max-w-md shadow-2xl overflow-hidden rounded-lg">
+      <Card className="w-full max-w-md overflow-hidden rounded-lg">
         <CardHeader className="text-center bg-card border-b">
           <CardTitle className="text-2xl sm:text-3xl font-bold text-primary tracking-tight py-4">
             Hello Canvas
